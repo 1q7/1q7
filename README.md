@@ -1,4 +1,4 @@
-[![1q7](https://media.discordapp.net/attachments/659160460255297537/931883794183643176/unknown.png)](https://discord.com/users/526037452033622036)
+[![1q7](https://media.discordapp.net/attachments/659160460255297537/931884339321507880/unknown.png)](https://discord.com/users/526037452033622036)
 <p align="center">
    <a href="https://discord.com/users/526037452033622036" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/ny7iep1efecf70ryav5afje0z" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
@@ -9,6 +9,6 @@
 </p>
 <div align="center">
    <a href="https://discord.com/users/526037452033622036" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/659038301331783680?bg=111111">
+      <img src="https://lanyard-profile-readme.vercel.app/api/526037452033622036?bg=111111">
    </a>
 </div>
