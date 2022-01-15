@@ -1,4 +1,4 @@
-[![1q7](https://media.discordapp.net/attachments/659160460255297537/931884339321507880/unknown.png)](https://discord.com/users/526037452033622036)
+[![1q7](https://media.discordapp.net/attachments/659160460255297537/931884638673203240/nanner.png)](https://discord.com/users/526037452033622036)
 <p align="center">
    <a href="https://discord.com/users/526037452033622036" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/ny7iep1efecf70ryav5afje0z" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
